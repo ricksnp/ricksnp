@@ -1,7 +1,7 @@
 ## Welcome <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-ricksnathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricksnathan/)](https://www.linkedin.com/in/ricksnathan/)
+[![Linkedin Badge](https://img.shields.io/badge/-ricksnathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricksnathan/)](https://www.linkedin.com/in/ricksnathan)
 [![Instagram Badge](https://img.shields.io/badge/-npricks-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/npricks/)](https://instagram.com/npricks)
 [![Gmail Badge](https://img.shields.io/badge/-rickspnathan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rickspnathan@gmai.com)](mailto:rickspnathan@gmail.com)
 
